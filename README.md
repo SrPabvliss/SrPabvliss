@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pablo</h1>
-<h4 align="center">engineering students at Universida Técnica de Ambato, see my for more</h4>
+<h4 align="center">Engineering students at Universida Técnica de Ambato</h4>
 </div>
 
 <div align="center">
@@ -46,10 +46,22 @@
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
+ <br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- ⚡ Fun fact : I love playing piano and creating music.
+
+<br>
 
   <a href="https://srpabvliss.github.io/PaaginPresentacion/"><img align="center" 
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
      alt="website" /></a>
+
+<br>
   </p>
  </p>
  </samp>
@@ -91,6 +103,4 @@
   </div>    
 </details>
 
-
-```
 
