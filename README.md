@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pablo</h1>
+<h4 align="center">engineering students at Universida Técnica de Ambato, see my for more</h4>
 </div>
 
 <div align="center">
@@ -66,15 +66,15 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api?username=SrPabvliss"
-          alt="SrPabvliss :: overall GitHub calification " /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPabvliss"
+          alt="SrPabvliss :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrPabvliss">
           <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPabvliss"
-          alt="1999AZZAR :: Top Langs by repo" />
+          alt="SrPabvliss :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrPabvliss"
-          alt="1999AZZAR :: Top Langs by commit" />
+          alt="SrPabvliss :: Top Langs by commit" />
           </a>
         </p>
 </details>
@@ -82,8 +82,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SrPabvliss" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrPabvliss" />
           </a>
        </p>
      <br>
@@ -92,12 +92,5 @@
 </details>
 
 
-```js
+```
 
-</details>
-<br/>
-</details> 
-
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
