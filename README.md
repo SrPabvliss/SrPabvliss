@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/pablo-villacres-26a060125/">
     <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="[https://pablo-presentation-page.vercel.app/](https://pablo-presentation-page.vercel.app/)">
+  <a href="https://pablo-presentation-page.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30"/>
   </a>
   <a href="mailto:pablomartinvillacres@gmail.com">
